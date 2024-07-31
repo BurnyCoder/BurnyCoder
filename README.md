@@ -1,4 +1,7 @@
-## Hi there 👋
+Interesed in everything around AI engineering and research.
+
+![Commits from work from 2024](https://i.imgur.com/GlBDhOi.png)
+
 
 <!--
 **BurnyCoder/BurnyCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
