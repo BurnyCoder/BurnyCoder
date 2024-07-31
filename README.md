@@ -1,6 +1,7 @@
-Interesed in everything around AI engineering and research.
+I'm, Interesed in everything around AI engineering and research.
 
-![Commits from work from 2024](https://i.imgur.com/GlBDhOi.png)
+My commits from my work account from 2024:
+![My commits from my work account from 2024](https://i.imgur.com/GlBDhOi.png)
 
 
 <!--
