@@ -2,7 +2,7 @@ Hi! I'm interested in everything around AI engineering and research.
 
 ### Questions I explore the most
 
-- What is the state of the art in artificial intelligence mathematical theory and practice?
+- What is the state of the art in artificial intelligence mathematical theory and engineering practice?
 - How to define and build artificial general intelligence and superintelligence?
 - How to apply AI for reverse engineering equations behind everything? How to apply AI for good as ideally as possible as much as possible?
 - How to make machines creative beyond human limitations and comprehension for scientific discovery, physics, mathematics, art, philosophy?
