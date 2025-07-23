@@ -2,20 +2,22 @@ Hi! I'm interested in everything around AI engineering and research.
 
 ### Questions I explore the most
 
-- How does the world work? How does everything work?
-- What is the fundamental equation of intelligence? What are all the different types of all the possible current and future intelligent systems?
-- What is the fundamental equation of the universe? What are all the equations, and mathematical structures more generally, governing reality across all scales in physics, and in natural science more generally?
 - What is the state of the art in artificial intelligence mathematical theory and practice?
-- How to apply AI for reverse engineering equations behind everything? How to apply AI for good as ideally as possible as much as possible?
 - How to define and build artificial general intelligence and superintelligence?
-- What is the fundamental equation of the brain? How to upgrade human intelligence?
+- How to apply AI for reverse engineering equations behind everything? How to apply AI for good as ideally as possible as much as possible?
+- How to make machines creative beyond human limitations and comprehension for scientific discovery, physics, mathematics, art, philosophy?
+- What is the fundamental mathematics of intelligence? What are all the different types of all the possible current and future intelligent systems?
+- What is and what will be the geopolitics of AI? What are the probabilities of different future scenarios?
+- How does the world work? How does everything work?
+- What is the fundamental mathematics of the universe? What are all the equations, and mathematical structures more generally, governing reality across all scales in physics, and in natural science more generally?
+- What is the fundamental mathematics of the brain? How to upgrade human intelligence?
 - How does AI and biological intelligence compare? How can humans and AIs form even greater collective intelligence?
-- What is the fundamental equation of creativity in science and art? How to make machines creative beyond human limitations and comprehension for scientific discovery, physics, mathematics, art, philosophy?
+- What is the fundamental equation of creativity in science and art? 
 - How to connect all sciences, formal and natural? What is the fundamental equation behind emergence and complexity? How does biology and other scientific fields emerge from physics and chemistry?
 - What are all the concepts in mathematics? What are all the possible foundations and mathematics with all sorts of mathematical universes and which ones are the best in what contexts?
 - What is the fundamental equation of consciousness?
 - How to make the world better for all?
-- What is the fundamental equation of building a great future for all where everyone flourishes? How to maximize the benefits, and minimize the disadvantages, of technologies and political systems? What is and what will be the geopolitics of AI? What are the probabilities of different future scenarios?
+- What is the fundamental equation of building a great future for all where everyone flourishes? How to maximize the benefits, and minimize the disadvantages, of technologies and political systems? 
 - What are the answers to the problems in philosophy?
 
 ### State of the art
