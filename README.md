@@ -8,10 +8,10 @@ Hi! I'm interested in everything around AI engineering and research.
 - How to make machines creative beyond human limitations and comprehension for scientific discovery, physics, mathematics, art, philosophy?
 - What is the fundamental mathematics of intelligence? What are all the different types of all the possible current and future intelligent systems?
 - What is and what will be the geopolitics of AI? What are the probabilities of different future scenarios?
+- How does AI and biological intelligence compare? How can humans and AIs form even greater collective intelligence?
 - How does the world work? How does everything work?
 - What is the fundamental mathematics of the universe? What are all the equations, and mathematical structures more generally, governing reality across all scales in physics, and in natural science more generally?
 - What is the fundamental mathematics of the brain? How to upgrade human intelligence?
-- How does AI and biological intelligence compare? How can humans and AIs form even greater collective intelligence?
 - What is the fundamental equation of creativity in science and art? 
 - How to connect all sciences, formal and natural? What is the fundamental equation behind emergence and complexity? How does biology and other scientific fields emerge from physics and chemistry?
 - What are all the concepts in mathematics? What are all the possible foundations and mathematics with all sorts of mathematical universes and which ones are the best in what contexts?
