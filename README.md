@@ -15,9 +15,9 @@ Hi! I'm interested in everything around AI engineering and research.
 - What is the fundamental equation of creativity in science and art? 
 - How to connect all sciences, formal and natural? What is the fundamental equation behind emergence and complexity? How does biology and other scientific fields emerge from physics and chemistry?
 - What are all the concepts in mathematics? What are all the possible foundations and mathematics with all sorts of mathematical universes and which ones are the best in what contexts?
-- What is the fundamental equation of consciousness?
+- What is the fundamental mathematics of consciousness?
 - How to make the world better for all?
-- What is the fundamental equation of building a great future for all where everyone flourishes? How to maximize the benefits, and minimize the disadvantages, of technologies and political systems? 
+- What is the fundamental mathematics of building a great future for all where everyone flourishes? How to maximize the benefits, and minimize the disadvantages, of technologies and political systems? 
 - What are the answers to the problems in philosophy?
 
 ### State of the art
