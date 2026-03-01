@@ -2,9 +2,10 @@ Hi! I'm interested in everything around AI engineering and research.
 
 ### Questions I explore the most
 
-- What is the state of the art in artificial intelligence mathematical theory and engineering practice?
+- What is the state of the art in artificial intelligence engineering practice?
+- How does artificial intelligence work? What's the current state of empirical research and mathematical theory in artificial intelligence?
 - How to define and understand artificial general intelligence and superintelligence?
-- How to apply AI for reverse engineering equations behind everything? How to apply AI for good as ideally as possible as much as possible?
+- How to apply AI for reverse engineering mathematics behind everything? How to apply AI for good as ideally as possible as much as possible?
 - How to make machines creative beyond human limitations and comprehension for scientific discovery, physics, mathematics, art, philosophy?
 - What is the fundamental mathematics of intelligence? What are all the different types of all the possible current and future intelligent systems?
 - What is and what will be the geopolitics of AI? What are the probabilities of different future scenarios?
@@ -12,8 +13,8 @@ Hi! I'm interested in everything around AI engineering and research.
 - How does the world work? How does everything work?
 - What is the fundamental mathematics of the universe? What are all the equations, and mathematical structures more generally, governing reality across all scales in physics, and in natural science more generally?
 - What is the fundamental mathematics of the brain? How to upgrade human intelligence?
-- What is the fundamental equation of creativity in science and art? 
-- How to connect all sciences, formal and natural? What is the fundamental equation behind emergence and complexity? How does biology and other scientific fields emerge from physics and chemistry?
+- What is the fundamental mathematics of creativity in science and art? 
+- How to connect all sciences, formal and natural? What is the fundamental mathematics behind emergence and complexity? How does biology and other scientific fields emerge from physics and chemistry?
 - What are all the concepts in mathematics? What are all the possible foundations and mathematics with all sorts of mathematical universes and which ones are the best in what contexts?
 - What is the fundamental mathematics of consciousness?
 - How to make the world better for all?
