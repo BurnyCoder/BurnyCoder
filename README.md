@@ -34,9 +34,6 @@ How does artificial intelligence (and intelligence more generally) that might so
 
 And many other things, see my website [burnyverse.com](https://burnyverse.com/).
 
-My commits from my AI work account from 2024:
-![My commits from my work account from 2024](https://i.imgur.com/GlBDhOi.png)
-
 <!--
 **BurnyCoder/BurnyCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
