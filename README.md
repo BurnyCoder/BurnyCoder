@@ -1,4 +1,4 @@
-Hi! I'm interested in everything around AI research and engineering.
+Hi! I'm interested in everything around AI and ML research and engineering.
 
 ### Questions I explore the most
 
