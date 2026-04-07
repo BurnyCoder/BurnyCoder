@@ -1,28 +1,24 @@
 Hi! I'm interested in everything around AI and ML research and engineering.
 
-### Questions I explore the most
+## Questions I explore the most
 
-- What is the state of the art in artificial intelligence engineering practice?
-- How does artificial intelligence work? What's the current state of empirical research and mathematical theory in artificial intelligence?
-- How to define and understand artificial general intelligence and superintelligence?
+- How does the world work? How does everything work? 
+- What is the fundamental mathematics of intelligence? What are all the different types of all the possible current and future intelligent systems? 
+- How does artificial intelligence work? What's the current state of empirical research and mathematical theory in artificial intelligence? What is the state of the art in artificial intelligence engineering practice?
+- What is the fundamental mathematics of the universe? What are all the equations, and mathematical structures more generally, governing reality across all scales in physics, and in all natural science more generally?
 - How to apply AI for reverse engineering mathematics behind everything? How to apply AI for good as ideally as possible as much as possible?
-- How to make machines creative beyond human limitations and comprehension for scientific discovery, physics, mathematics, art, philosophy?
-- What is the fundamental mathematics of intelligence? What are all the different types of all the possible current and future intelligent systems?
-- What is and what will be the geopolitics of AI? What are the probabilities of different future scenarios?
-- How does AI and biological intelligence compare? How can humans and AIs form even greater collective intelligence?
-- How does the world work? How does everything work?
-- What is the fundamental mathematics of the universe? What are all the equations, and mathematical structures more generally, governing reality across all scales in physics, and in natural science more generally?
+- How to define and understand artificial general intelligence and superintelligence? How to make it do what we want?
 - What is the fundamental mathematics of the brain? How to upgrade human intelligence?
-- What is the fundamental mathematics of creativity in science and art? 
+- How does AI and biological intelligence compare? How can humans and AIs form even greater collective intelligence? 
 - How to connect all sciences, formal and natural? What is the fundamental mathematics behind emergence and complexity? How does biology and other scientific fields emerge from physics and chemistry?
+- What is the fundamental mathematics of creativity in science and art? How to make machines creative beyond human limitations and comprehension for scientific discovery, physics, mathematics, art, philosophy?
 - What are all the concepts in mathematics? What are all the possible foundations and mathematics with all sorts of mathematical universes and which ones are the best in what contexts?
 - What is the fundamental mathematics of consciousness?
-- How to make the world better for all?
-- What is the fundamental mathematics of building a great future for all where everyone flourishes? How to maximize the benefits, and minimize the disadvantages, of technologies and political systems? 
+- What is the fundamental mathematics of building a great future for all where everyone flourishes? How to make the world better for all? How to maximize the benefits, and minimize the disadvantages, of technologies and political systems? What is and what will be the geopolitics of AI? What are the probabilities of different future scenarios?
 - What are the answers to the problems in philosophy?
 
 ### State of the art
-I am interested in the current state of the art top artificial Intelligence systems (machine learning, data science, statistics, deep learning, generative AI (large language models, image/sound/video models, multimodal models), reinforcement learning models, expert systems, neurosymbolic AI, etc. I want to use them in practice for the benefit of others, such as for automating mundane tasks (dishes, laundry), healthcare (AMIE, AlphaFold, SLIViT), programming (coding AI copilots such as GitHub copilot, Cursor, Replit, and autonomous software engineers), science (autonomous science such as AI scientist), physics (FermiNet), mathematics (AlphaProof), technology development (AlphaChip, virtual reality), chatbot assistants grounded in reality, education, information searching, minimizing various risks and crises, transportation, manufacturing, security, cybersecurity, energy optimization, supply chain optimization, weather forecasting, agriculture, translation, recommendations, finance, call centers, entertainment, legal services, games, robotics for good, altruism, etc. by predicting, forecasting, generating, classification, analysis, clustering, segmentating etc., with AI engineering methods by building and training models, finetuning, prompt engineering, retrieval augmented generation, agent and multiagent frameworks, etc. using PyTorch, Keras, Scikit-learn, FastAI, OpenAI or Anthropic API, Llama locally or deployed, Llamaindex, Langchain, Autogen, LangGraph, vector databases, etc. 
+I am interested in the current state of the art top artificial Intelligence systems (machine learning, data science, statistics, deep learning, generative AI (large language models, image/sound/video models, multimodal models), reinforcement learning models, expert systems, neurosymbolic AI, etc. I want to use them in practice for the benefit of others, such as for automating mundane tasks (dishes, laundry), healthcare (AMIE, AlphaFold, SLIViT), programming (coding AI copilots such as Claude Code, Codex, GitHub copilot, Cursor, Replit, and autonomous software engineers), science (autonomous science such as AI scientist), physics (FermiNet), mathematics (AlphaProof), technology development (AlphaChip, virtual reality), chatbot assistants grounded in reality, education, information searching, minimizing various risks and crises, transportation, manufacturing, security, cybersecurity, energy optimization, supply chain optimization, weather forecasting, agriculture, translation, recommendations, finance, call centers, entertainment, legal services, games, robotics for good, altruism, etc. by predicting, forecasting, generating, classification, analysis, clustering, segmentating etc., with AI engineering methods by building and training models, finetuning, prompt engineering, retrieval augmented generation, agent and multiagent frameworks, etc. using PyTorch, Keras, Scikit-learn, FastAI, OpenAI or Anthropic API, Llama locally or deployed, Llamaindex, Langchain, Autogen, LangGraph, vector databases, etc. 
 
 ### From scratch
 I am interested in how to build good AI models from scratch in PyTorch, or not from scratch with for example finetuning. I enjoy building large language models and other deep learning models from scratch. With PyTorch, Keras, fastai, etc. (I really love [Neural Networks: Zero to Hero by Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) that was in OpenAI and Tesla and thaught in Stanford)
