@@ -4,6 +4,7 @@ Hi! I'm interested in everything around AI and ML research and engineering.
 
 - How does artificial intelligence work? What is the state of the art in artificial intelligence engineering practice? What's the current state of empirical research and mathematical theory in artificial intelligence?
 - How to apply AI for good as ideally as possible as much as possible? How to apply AI for reverse engineering mathematics behind everything?
+- What is the fundamental mathematics of creativity in science and art? How to make machines creative beyond human limitations and comprehension for scientific discovery, physics, mathematics, art, philosophy?
 - How to define and understand artificial general intelligence and superintelligence? How to make it do what we want?
 - How does AI and biological intelligence compare? How can humans and AIs form even greater collective intelligence? 
 - How does the world work? How does everything work? 
@@ -11,7 +12,6 @@ Hi! I'm interested in everything around AI and ML research and engineering.
 - What is the fundamental mathematics of the universe? What are all the equations, and mathematical structures more generally, governing reality across all scales in physics, and in all natural science more generally?
 - What is the fundamental mathematics of the brain? How to upgrade human intelligence?
 - How to connect all sciences, formal and natural? What is the fundamental mathematics behind emergence and complexity? How does biology and other scientific fields emerge from physics and chemistry?
-- What is the fundamental mathematics of creativity in science and art? How to make machines creative beyond human limitations and comprehension for scientific discovery, physics, mathematics, art, philosophy?
 - What are all the concepts in mathematics? What are all the possible foundations and mathematics with all sorts of mathematical universes and which ones are the best in what contexts?
 - What is the fundamental mathematics of consciousness?
 - What is the fundamental mathematics of building a great future for all where everyone flourishes? How to make the world better for all? How to maximize the benefits, and minimize the disadvantages, of technologies and political systems? What is and what will be the geopolitics of AI? What are the probabilities of different future scenarios?
