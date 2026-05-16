@@ -92,7 +92,7 @@ I'm looking to collaborate! :-)
 
 ## Wikis I work on
 - [AI interpretability wiki](https://aiinterpretability.miraheze.org/wiki/Main_Page): Wiki of the AI interpretability scientific field. AI interpretability tries to understand how AI systems work using science. These findings help causally predict and explain the behavior and evolution of AI systems, making them more interpretable, transparent, steerable, safe, and so on. Mechanistic interpretability does it by empirically reverse engineering representations and circuits inside the models' learned weights, which can be seen as the biology of deep learning. There is also deep learning theory that empirically finds mathematical laws, as in physics, or analytically derives mathematical properties, as in theoretical physics.
-- Exocortex: My personal wiki of everything I am curious about that I explore. Full of interconnected topics, taxonomies, links to resources, written down thoughts, ideas, articles, projects, and so on.
+- [Exocortex](https://burnyverse.com/Exocortex): My personal wiki of everything I am curious about that I explore. Full of interconnected topics, taxonomies, links to resources, written down thoughts, ideas, articles, projects, and so on.
 
 ## Questions I love to explore
 - How does artificial intelligence work? What's the current state of empirical research and mathematical theory in artificial intelligence? What is the state of the art in artificial intelligence engineering practice?
