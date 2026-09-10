@@ -143,7 +143,7 @@ I'm looking to collaborate! :-)
 
 ## Some of my [articles](https://burnyverse.com/Articles)
 - [Explosion of AI generated mathematics with counterexamples to conjectures and the future of AI mathematics with Artificial Grothendieck Intelligence](https://burnyverse.com/Articles/Explosion+of+AI+generated+mathematics+with+counterexamples+to+conjectures+and+the+future+of+AI+mathematics+with+Artificial+Grothendieck+Intelligence)
-- [Can we solve science of LLMs. Can we solve science of deep learning. Can we solve science of AI. Can we solve science of information processing systems in general.](https://burnyverse.com/Articles/Can+we+solve+science+of+LLMs.+Can+we+solve+science+of+deep+learning.+Can+we+solve+science+of+AI.+Can+we+solve+science+of+information+processing+systems+in+general.)
+- [Can we solve science of LLMs. Can we solve science of deep learning. Can we solve science of AI. Can we solve science of information processing systems in general.](https://burnyverse.com/Articles/Can+we+solve+science+of+LLMs%2C+can+we+solve+science+of+deep+learning%2C+can+we+solve+science+of+AI%2C+can+we+solve+science+of+information+processing+systems+in+general)
 - [Current state and future of recursive AI self-improvement research. In how strong form is it real](https://burnyverse.com/Articles/Current+state+and+future+of+recursive+AI+self-improvement+research.+In+how+strong+form+is+it+real)
 - [AI tribes from The Master Algorithm and what camps would I add](https://burnyverse.com/Articles/AI+tribes+from+The+Master+Algorithm+and+what+camps+would+I+add)
 - [How are current AI systems mostly created, and who is pursuing alternatives](https://burnyverse.com/Articles/How+are+current+AI+systems+mostly+created%2C+and+who+is+pursuing+alternatives)
