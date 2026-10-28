@@ -20,10 +20,12 @@ I have a wide range of interests! I’m hypercurious! I love to explore these to
 - Enjoyer of good faith debates with steelmanning 
 - Truth seeker of scientific, mathematical and philosophical truth
 
-## Overview
+## What I’m doing
 - Playing with AI systems like ChatGPT since GPT-3 from 2020 for 6 years
-- ML and AI researcher and engineer with 3 years of experience who follows, reads, writes about, plays with, and expands on various new research papers and industry news, primarily in: AI research progress, the science of AI/ML/deep learning, AI interpretability, AI engineering, and applying AI to research, industry, software engineering, physics, and other fields of engineering and science.
-- I am highly curious about everything around intelligence and the universe. I want AI to go well and be understood. I always loved building communities and connecting compatible people together! I tend to be fully immersed in and obsessed with things I care about!
+- ML and AI researcher and engineer with years of experience who follows, reads, writes about, plays with, and expands on various new research papers and industry news, primarily in: AI research progress, the science of AI/ML/deep learning, AI interpretability, AI engineering, and applying AI to research, industry, software engineering, physics, and other fields of engineering and science.
+- STEM writer and commentator focused on AI with years of experience, developing the [AI Interpretability Wiki](https://aiinterpretability.miraheze.org/wiki/Main_Page) (a wiki of the AI interpretability scientific field, which helps to make AI systems more understandable, steerable, and safe) and [Exocortex](https://burnyverse.com/Exocortex) (my personal wiki of topics I am curious about and explore). I also post on an [X account](https://twitter.com/burny_tech/) with almost 20k followers, or on [Substack](https://substack.com/@burny), [[articles]], [YouTube](https://www.youtube.com/@burnytech).
+- Community builder with years of experience in moderating and hosting events in communities, with with recent focus on Discord servers for ML and AI research and engineering, such as [Mechanistic Interpretability Discord server](https://www.youtube.com/@MIDiscordServerRecordings/streams) with co-organizing weekly research paper reading group, and [Machine Learning Street Talk Discord server](https://www.youtube.com/c/MachineLearningStreetTalk/) with co-organizing weekly debates.
+- I am highly curious about everything around intelligence and the universe. I want AI to go well and be understood. I always loved building communities and connecting compatible people together! I tend to be obsessed with things I care about!
 
 ## I am constantly following, reading, writing about, playing with, expanding, etc. on various new research papers and industry news, with others, in:
 - AI progress, such as new LLMs, novel AI architectures, agents, reinforcement learning, etc.
@@ -31,7 +33,6 @@ I have a wide range of interests! I’m hypercurious! I love to explore these to
 - AI engineering, applying AI in industry, to software engineering, to physics, to other engineering, to other sciences, etc.
 - And other types of AI research papers and industry news
 - I'm highly curious and also like to sometimes explore some math, physics, science of intelligence, cognitive science, neuroscience, philosophy, computer science, futurology, scifi, etc.
-- I consider myself a fast, adaptable learner! When I'm committed to something, I become fully immersed in it, obsessed by it, it becomes my reality, and I give it my full effort!
   
 ## Some of the projects I work/worked on
 - [Reinforcement Learning Locomotion Steering Vectors](https://github.com/BurnyCoder/reinforcement-learning-locomotion-steering-vectors): Reverse engineering by mechanistic interpretability of reinforcement learning without human data from just experience of locomotion agent by finding and adding a steering vectors to policy's hidden activations to produce changes in behavior, such as sideways velocity. Collects unsteered rollouts, extracts contrasting activation means, selects intervention strengths on validation episodes, and checks them on fresh paired episodes. Uses Python + uv, PyTorch + Torchvision, Stable-Baselines3, Gymnasium + MuJoCo, Hugging Face Hub, NumPy, SciPy.
